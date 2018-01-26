@@ -1,0 +1,5 @@
+*{box-sizing:border-box;padding:0;margin:0;}
+body{padding:10px;}
+.outer-div{width:800px;padding:20px 50px;margin:0 auto;}
+table{width:100%;border:1px solid #ddd;border-collapse: collapse;white-space: nowrap;}
+table thead tr th,table tbody tr td{padding:20px 40px;background-color:#fff;border:1px solid #ddd;}
